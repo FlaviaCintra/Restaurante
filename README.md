@@ -1,2 +1,2 @@
 # Restaurante
- Este site está em processo de desenvolvimento, ainda estou em ´proceso de aprenziagem , usei todos os meus conhecimentos de html e css até aqui.
+Este site está em fase de desenvolvimento, e utilizei todo o meu conhecimento em HTML e CSS para sua criação. Estou constantemente ajustando e aprimorando os detalhes conforme necessário.
